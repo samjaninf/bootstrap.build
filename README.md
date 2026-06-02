@@ -1,20 +1,15 @@
 # Bootstrap Theme Builder (Generator)
 
 <p align="center">
-<b><a href="https://bootstrap.build/app">
+<b><a href="https://bootstrap.build/">
  &#x3E;&#x3E;&#x3E; Launch app &#x3C;&#x3C;&#x3C;
 </a></b>
 </p>
-<p align="center">
-<a href="https://www.producthunt.com/posts/bootstrap-build">Product Hunt</a>
-</p>
-<p align="center">
- <img src="https://i.imgur.com/xU0qXKD.png" height="200"/>
-</p>
+
 
 ## Features
 
-**Bootstrap 4** – Bootstrap.build was built for the latest version of Bootstrap (v4.0.0-beta.2).
+**Bootstrap 5** – Bootstrap.build was built for the latest version of Bootstrap 5.3.8. Available on https://bootstrap.build/ only.
 
 **Google Fonts** – All Google Fonts are available and auto suggested for font variables.
 
